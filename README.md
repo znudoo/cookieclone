@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @cookieclone
+- 👋 Hi, I’m @cookieclone (sundew)
+- not doing much
+- school is boring, but i gotta do it
 - 👀 I’m interested in ... stuff
 - 🌱 I’m currently learning ... code
 - 💞️ I’m looking to collaborate on ... idk 
